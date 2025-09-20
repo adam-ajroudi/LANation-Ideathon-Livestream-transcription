@@ -1,6 +1,8 @@
-# La Nation - YouTube Live Stream Processor
+# 🎬 La Nation - YouTube Live Stream Processor
 
 A sophisticated AI-powered system that processes YouTube videos, transcribes audio in real-time, detects specific phrases, and analyzes visual content using advanced machine learning APIs.
+
+**🎓 Minerva University Ideathon Project** - Created for and available to all Minerva students to use, learn from, and build upon.
 
 ## 🚀 Features
 
@@ -41,8 +43,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ### 3. Install Dependencies
 ```bash
-pip install -r requirements.txt
-```
+   pip install -r requirements.txt
+   ```
 
 ### 4. Configure Environment Variables
 
@@ -340,4 +342,4 @@ For academic collaboration or questions:
 
 ---
 
-**🎓 Capstone Project**: Advanced AI-powered media processing system combining speech recognition, natural language processing, and computer vision for intelligent content analysis. 
+**🎓 Minerva University Ideathon Project**: Advanced AI-powered media processing system combining speech recognition, natural language processing, and computer vision for intelligent content analysis. Created by Adam Ajroudi for the Minerva community. 
